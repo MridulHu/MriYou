@@ -41,6 +41,7 @@ const Feed = () => {
         <Typography
           variant="h4"
           fontWeight="bold"
+          pl={2}
           mb={2}
           sx={{ color: "white" }}
         >
